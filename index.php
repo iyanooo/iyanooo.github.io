@@ -31,3 +31,7 @@ echo $response;
 
 
 ?>
+<DOCTYPE HTML>
+<HTML>
+    <HEADER> ussd app</HEADER>
+</HTML>
